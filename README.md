@@ -3,17 +3,17 @@ This repo contains all of the code that I wrote in learning how to flash a progr
 that I got off of Alixpress for free, lol. 
 
 Some topics that this small project exhibits include 
-**Embedded Systems Development**
+**Embedded Systems Development**  
 - Microcontroller Programming
 - Memory-mapped I/O 
-**RTOS**
+**RTOS**  
 - FreeRTOS task management and scheduling
 - vTaskDelay() 
 - Interrupt Handling 
-**Professional Toolchain**
+**Professional Toolchain**   
 - ESP-IDF Framework
 - CMake Configuration
-**Computer Architecture**
+**Computer Architecture**  
 - RISC-V Architecture 
 - Real-time operating system concepts
 

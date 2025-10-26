@@ -19,4 +19,4 @@ Some topics that this small project exhibits include <br />
 
 In the end, this project was meant to get me started in practicing concepts of low-level
 programming and toolchains because I want to get started with ARM Developer Labs projects.
-ESP32 doesn't use ARM processors but the concepts are similar and good for practice (it's what I had layign around).
+ESP32 doesn't use ARM processors but the concepts are similar and good for practice (it's what I had laying around).
